@@ -1,13 +1,11 @@
 # llms-influence-tactics
 
-### Built With
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-This section lists the major frameworks/libraries used in this project. 
-
-* [![Python][Python.com]][Python-url]
-* [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
