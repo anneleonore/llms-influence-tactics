@@ -11,7 +11,7 @@
 
 ## Installation
 
-## llms
+## Large Language Models
 
 ## Credits
 
