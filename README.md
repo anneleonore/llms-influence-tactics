@@ -14,9 +14,9 @@
 ## LLMs
 We compared the performance of four open-source LLms:
 1. Llama-3.1-8B [(Meta AI, 2024)](https://huggingface.co/meta-llama/Llama-3.1-8B)
-2. gemma-2-2b-it (Gemma Team, 2024)
-3. Mistral-7B-Instruct-v0.3 (Jiang et al., 2023)
-4. Qwen2.5-3B-Instruct (Qwen Team, 2024)
+2. gemma-2-2b-it [(Gemma Team, 2024)](https://www.kaggle.com/m/3301)
+3. Mistral-7B-Instruct-v0.3 [(Jiang et al., 2023)](https://arxiv.org/abs/2310.06825)
+4. Qwen2.5-3B-Instruct [(Qwen Team, 2024)](https://qwenlm.github.io/blog/qwen2.5/)
 
 ## Credits
 
