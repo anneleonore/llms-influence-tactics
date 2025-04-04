@@ -5,13 +5,13 @@
 ## Table of Contents 
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Large Language Models](#llms)
 - [Credits](#credits)
 - [License](#license)
 
 ## Installation
 
-## Usage
+## llms
 
 ## Credits
 
