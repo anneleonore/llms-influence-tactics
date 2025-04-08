@@ -40,6 +40,8 @@ Anne Leonore (Noor) de Bruijn
 
 [<span style="text-decoration: none;">&#128231;</span> Mail](mailto:n.debruijn@mbs.edu)
 <br>
+<a href="mailto:n.debruijn@mbs.edu" style="text-decoration: none;"><span>&#128231;</span> <span style="text-decoration: underline;">Mail</span></a>
+<br>
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/anneleonore)
 <br>
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/anneleonore)
