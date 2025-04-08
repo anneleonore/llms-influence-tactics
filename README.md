@@ -5,12 +5,18 @@
 ## Table of Contents 
 
 - [Installation](#installation)
+- [Prompting](#prompting)
 - [Large Language Models](#LLMs)
 - [Influence Tactics](#influence-tactics)
 - [Credits](#credits)
 - [License](#license)
 
 ## Installation
+
+### Dependencies
+
+## Prompting
+We used one-shot and few-shot prompting to test the models' ability to identify influence tactics in negotiation dialogue. We provided different levels of contextual information to assess model performance. 
 
 ## LLMs
 We compared the performance of four open-source LLms:
@@ -20,7 +26,7 @@ We compared the performance of four open-source LLms:
 4. Qwen2.5-3B-Instruct [(Qwen Team, 2024)](https://qwenlm.github.io/blog/qwen2.5/)
 
 ## Influence Tactics
-We used zero-shot and few-shot prompting scripts to classify the following influence tactics in negotiation dialogues:
+Our analysis focused on the following influence tactics:
 1. Give compliment
 2. Show empathy
 3. Ask politely
