@@ -37,15 +37,8 @@ We used zero-shot and few-shot prompting scripts to classify the following influ
 ## Contact
 Anne Leonore (Noor) de Bruijn
 <br>
-
 [<span style="text-decoration: none;">&#128231;</span> Mail](mailto:n.debruijn@mbs.edu)
-<br>
-<a href="mailto:n.debruijn@mbs.edu" style="text-decoration: none;"><span>&#128231;</span> <span style="text-decoration: underline;">Mail</span></a>
 <br>
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/anneleonore)
 <br>
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/anneleonore)
-<br>
-<a href="https://github.com/anneleonore" style="text-decoration: none;"><img src="https://i.sstatic.net/tskMh.png"> <span style="text-decoration: underline;">GitHub</span></a>
-<br>
-<a href="https://github.com/anneleonore"><img src="https://i.sstatic.net/tskMh.png" style="text-decoration: underline;"> GitHub</a>
