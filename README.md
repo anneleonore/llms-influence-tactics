@@ -17,7 +17,9 @@ This project involves evaluating the ability of ***large language models*** to i
 ### Dependencies
 
 ## Prompting
-We used one-shot and few-shot prompting to test the models' ability to identify influence tactics in negotiation dialogue. We provided different levels of contextual information to assess model performance. 
+We used one-shot and few-shot prompting to test the models' ability to identify influence tactics in negotiation dialogue. We provided different levels of contextual information to assess model performance. See examples of zero-shot and few-shot prompts here:
+- Zero-shot prompting instruction
+- Few-shot prompting instruction
 
 ## LLMs
 We compared the performance of four open-source LLms:
