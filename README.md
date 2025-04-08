@@ -32,9 +32,11 @@ We used zero-shot and few-shot prompting scripts to classify the following influ
 ## Credits
 We would like to thank the following individuals for their contributions to this project:
 <br>
-Dr. Ekaterina Vylomova, Lecturer at the School of Computing and Information Systems (The University of Melbourne)
 <br>
-Professor Jennifer Overbeck, Professor of Management, Associate Dean, Research (Melbourne Business School)
+- Dr. Ekaterina Vylomova, Lecturer at the School of Computing and Information Systems (The University of Melbourne)
+<br>
+- Professor Jennifer Overbeck, Professor of Management, Associate Dean, Research (Melbourne Business School)
+<br>
 <br>
 We also acknowledge the support of [The University of Melbourne](https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships) and [Het Cultuurfonds](https://www.cultuurfonds.nl)."
 
