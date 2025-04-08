@@ -1,10 +1,8 @@
 # Large Language Models and Influence Tactics
 
 ## About the Project
-###### This project involves evaluating the ability of large language models to identify influence tactics in negotiation dialogue through prompting. We're testing the models' inference capabilities by providing them with varying levels of contextual information and assessing their performance. By doing so, we're exploring the models' ability to recognize and classify different influence tactics.
+####### This project involves evaluating the ability of large language models to identify influence tactics in negotiation dialogue through prompting. We're testing the models' inference capabilities by providing them with varying levels of contextual information and assessing their performance. By doing so, we're exploring the models' ability to recognize and classify different influence tactics.
 
-<p style="font-family: times, serif; font-size:30pt; font-style:italic"> This if font size 30 </p>
-<p style="font-family: times, serif; font-size:12pt; font-style:italic"> This if font size 12 </p>
 
 ## Table of Contents 
 - [Installation](#installation)
