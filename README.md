@@ -18,6 +18,16 @@ We compared the performance of four open-source LLms:
 3. Mistral-7B-Instruct-v0.3 [(Jiang et al., 2023)](https://arxiv.org/abs/2310.06825)
 4. Qwen2.5-3B-Instruct [(Qwen Team, 2024)](https://qwenlm.github.io/blog/qwen2.5/)
 
+## Influence Tactics
+We used zero-shot and few-shot prompting scripts to classify the following influence tactics in negotiation dialogues:
+1. Give compliment
+2. Show empathy
+3. Ask politely
+4. State preference
+5. Communicate rationale
+6. Take control of conversation
+7. Workout compromise
+
 ## Credits
 
 ## License
