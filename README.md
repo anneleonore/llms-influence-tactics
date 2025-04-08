@@ -3,6 +3,16 @@
 ## About the Project
 ###### This project involves evaluating the ability of large language models to identify influence tactics in negotiation dialogue through prompting. We're testing the models' inference capabilities by providing them with varying levels of contextual information and assessing their performance. By doing so, we're exploring the models' ability to recognize and classify different influence tactics.
 
+<font size="2"> This is my text number 2 </font>
+ 
+ <font size="3"> This is my text number 3</font> 
+ 
+ <font size="4"> This is my text number 4</font> 
+ 
+ <font size="5"> This is my text number 5</font> 
+ 
+ <font size="6"> This is my text number 6</font>
+
 ## Table of Contents 
 - [Installation](#installation)
 - [Prompting](#prompting)
