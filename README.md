@@ -39,8 +39,6 @@ Anne Leonore (Noor) de Bruijn - n.debruijn@mbs.edu
 <br>
 Project Link: [https://github.com/anneleonore/llms-influence-tactics](https://github.com/anneleonore/llms-influence-tactics)
 
-<i class="fa-solid fa-linkedin"></i>
-
-<a href="https://www.linkedin.com/in/your-profile-url">
-  <i class="fa fa-linkedin" aria-hidden="true"></i>
-</a>
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/anneleonore)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/anneleonore)
