@@ -38,3 +38,7 @@ We used zero-shot and few-shot prompting scripts to classify the following influ
 Anne Leonore (Noor) de Bruijn - n.debruijn@mbs.edu
 <br>
 Project Link: [https://github.com/anneleonore/llms-influence-tactics](https://github.com/anneleonore/llms-influence-tactics)
+
+<a href="https://www.linkedin.com/in/your-profile-url">
+  <i class="fa fa-linkedin" aria-hidden="true"></i>
+</a>
