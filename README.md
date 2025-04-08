@@ -6,6 +6,7 @@
 
 - [Installation](#installation)
 - [Large Language Models](#LLMs)
+- [Influence Tactics](#influence-tactics)
 - [Credits](#credits)
 - [License](#license)
 
